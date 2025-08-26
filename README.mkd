@@ -1,3 +1,12 @@
 # Hacks
 
 Hacky one-off scripts, tests etc.
+
+## Structure
+
+The scripts are grouped by implementation language:
+
+- `go/` – Go-based utilities
+- `javascript/` – Node/JavaScript experiments
+- `php/` – PHP helpers
+- `misc/` – miscellaneous labs and other material
